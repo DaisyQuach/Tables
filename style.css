@@ -1,0 +1,8 @@
+table.table1, td, th{
+    border: 1px solid black;
+    text-align: center;
+    border-collapse: collapse
+}
+table.table2{
+    border: 1px dotted green;
+}
